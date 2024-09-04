@@ -3,16 +3,6 @@
    "num":117,
    "result":[
       {
-         "id":12,
-         "judule":"Evil Nun",
-         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_evil_nun.webp",
-         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_evil_nun.zip",
-         "typeMCPE":"typeMCPE",
-         "html_file":"html_file",
-         "extension":"mcworlb",
-         "deskripsine":"deskripsine"
-      },
-      {
          "id":0,
          "judule":"A Nightmare",
          "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_a_nightmare.webp",
@@ -43,6 +33,16 @@
          "deskripsine":"deskripsine"
       },
       {
+         "id":12,
+         "judule":"Evil Nun",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_evil_nun.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_evil_nun.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
          "id":13,
          "judule":"Fear",
          "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_fear.webp",
@@ -67,6 +67,16 @@
          "judule":"Granny",
          "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_granny.webp",
          "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_granny.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
+         "id":20,
+         "judule":"Granny Bedrock Edition",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_granny_bedrock_edition.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_granny_bedrock_edition.zip",
          "typeMCPE":"typeMCPE",
          "html_file":"html_file",
          "extension":"mcworlb",
@@ -143,6 +153,16 @@
          "deskripsine":"deskripsine"
       },
       {
+         "id":44,
+         "judule":"Super Mega Dropper",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_super_mega_dropper.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_super_mega_dropper.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
          "id":45,
          "judule":"The Asylum",
          "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_the_asylum.webp",
@@ -207,6 +227,306 @@
          "judule":"The Sewer",
          "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_the_sewer.webp",
          "file_url":"https://livemovies.club/mcworlb1.20/HR_the_sewer.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
+         "id":52,
+         "judule":"The Unknown",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_the_unknown.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_the_unknown.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
+         "id":1,
+         "judule":"Baldi Basics Bedrock Edition",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_baldi_basics_bedrock_edition.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_baldi_basics_bedrock_edition.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
+         "id":2,
+         "judule":"Baldi Basics In Find The Button Minigame",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_baldi_basics_in_find_the_button_minigame.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_baldi_basics_in_find_the_button_minigame.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
+         "id":25,
+         "judule":"Hospital 1",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_hospital_1.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_hospital_1.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
+         "id":26,
+         "judule":"Hospital 2",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_hospital_2.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_hospital_2.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
+         "id":14,
+         "judule":"FNAF: Sister Location #1",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_fnaf_sl_map_chapter_1.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_fnaf_sl_map_chapter_1.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
+         "id":15,
+         "judule":"FNAF: Sister Location #2",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_fnaf_sl_map_chapter_2.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_fnaf_sl_map_chapter_2.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
+         "id":16,
+         "judule":"FNAF: Sister Location #3",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_fnaf_sl_map_chapter_3.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_fnaf_sl_map_chapter_3.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
+         "id":17,
+         "judule":"FNAF: Sister Location #4",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_fnaf_sl_map_chapter_4.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_fnaf_sl_map_chapter_4.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
+         "id":38,
+         "judule":"Slendrina Cellar 1 - Dv",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_slendrina_cellar_1_horror_dv.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_slendrina_cellar_1_horror_dv.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
+         "id":39,
+         "judule":"Slendrina Cellar 2 - Dv",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_slendrina_cellar_2_horror_dv.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_slendrina_cellar_2_horror_dv.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
+         "id":40,
+         "judule":"Slendrina Cellar 3 - Dv",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_slendrina_cellar_3_horror_dv.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_slendrina_cellar_3_horror_dv.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
+         "id":41,
+         "judule":"Slendrina The Cellar #1",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_slendrina_the_cellar_1.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_slendrina_the_cellar_1.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
+         "id":42,
+         "judule":"Slendrina The Cellar #2",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_slendrina_the_cellar_2.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_slendrina_the_cellar_2.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
+         "id":43,
+         "judule":"Slendrina The Cellar #3",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_slendrina_the_cellar_3.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_slendrina_the_cellar_3.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
+         "id":33,
+         "judule":"One Night At Frankie 1",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_one_night_at_frankie_1.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_one_night_at_frankie_1.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
+         "id":34,
+         "judule":"One Night At Frankie 2",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_one_night_at_frankie_2.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_one_night_at_frankie_2.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
+         "id":35,
+         "judule":"One Night At Frankie 3",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_one_night_at_frankie_3.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_one_night_at_frankie_3.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
+         "id":28,
+         "judule":"Mcdonald Mystery 1",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_mcdonald_mystery_1.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_mcdonald_mystery_1.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
+         "id":29,
+         "judule":"Mcdonald Mystery 2",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_mcdonald_mystery_2_map.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_mcdonald_mystery_2_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
+         "id":30,
+         "judule":"Mcdonald Mystery 3",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_mcdonald_mystery_3.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_mcdonald_mystery_3.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
+         "id":21,
+         "judule":"Hello Neighbor #1",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_hello_neighbor_1.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_hello_neighbor_1.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
+         "id":22,
+         "judule":"Hello Neighbor #2",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_hello_neighbor_2.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_hello_neighbor_2.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
+         "id":9,
+         "judule":"Dummy 1",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_dummy_1.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_dummy_1.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
+         "id":10,
+         "judule":"Dummy 2",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_dummy_2.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_dummy_2.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
+         "id":11,
+         "judule":"Dummy 3",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_dummy_3.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_dummy_3.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
+         "id":3,
+         "judule":"Bendy Game Chapter 1",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_bendy_game_chapter_1.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_bendy_game_chapter_1.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
+         "id":4,
+         "judule":"Bendy Game Chapter 2",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_bendy_game_chapter_2.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_bendy_game_chapter_2.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
+         "id":5,
+         "judule":"Bendy Game Chapter 3",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_bendy_game_chapter_3.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_bendy_game_chapter_3.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
+         "id":6,
+         "judule":"Bendy Game Chapter 4",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_bendy_game_chapter_4.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_bendy_game_chapter_4.zip",
          "typeMCPE":"typeMCPE",
          "html_file":"html_file",
          "extension":"mcworlb",
